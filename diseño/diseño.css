@@ -1,0 +1,62 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    font:35px 5000;
+} 
+
+.titulo1{
+    background:  rgb(0, 174, 255);
+   padding: 17px;
+}
+
+*{
+    font-family: sans-serif;
+}
+body{
+    text-align: center;
+}
+div{
+    margin: 20px;
+    border: 1px solid black;
+    background: #ffff51
+
+
+}
+
+
+    .menu{
+background: rgb(208, 255, 1);
+       padding: 10px;
+       font-weight: unset;
+    }
+    .cl{
+        background:rgb(187, 255, 0);
+        padding: 9px;
+    }
+    .menu li{
+        list-style: none;
+        padding: 10px;
+        display: inline-block;
+        border: 1px solid black;
+    }
+    .roman{
+        text-align: center;
+              background-image: url (imagenes/cinta.jpg);
+    }
+    .img{
+        padding: 80px;
+    }
+   
+    .rgs{ 
+        background: rgb(208, 255, 1);
+        padding: 10px;
+        font-weight: unset;
+    }
+    .rgs li{
+        list-style: none;
+        display: inline-block;
+    }
+
+   
