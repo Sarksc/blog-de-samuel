@@ -1,6 +1,7 @@
 *{
     padding: 0px;
     margin: 0px;
+    font-family: sans-serif;
 }
 h1{
     font:35px 5000;
@@ -11,28 +12,23 @@ h1{
    padding: 17px;
 }
 
-*{
-    font-family: sans-serif;
-}
 body{
     text-align: center;
+    
 }
 div{
     margin: 20px;
     border: 1px solid black;
-    background: #ffff51
-
-
+  
 }
 
 
     .menu{
-background: rgb(208, 255, 1);
+background: rgb(238, 255, 83);
        padding: 10px;
        font-weight: unset;
     }
     .cl{
-        background:rgb(187, 255, 0);
         padding: 9px;
     }
     .menu li{
@@ -43,14 +39,14 @@ background: rgb(208, 255, 1);
     }
     .roman{
         text-align: center;
-              background-image: url (imagenes/cinta.jpg);
+              
     }
-    .img{
+    .imgt{
         padding: 80px;
     }
    
     .rgs{ 
-        background: rgb(208, 255, 1);
+        background: rgb(255, 229, 114);
         padding: 10px;
         font-weight: unset;
     }
@@ -59,4 +55,15 @@ background: rgb(208, 255, 1);
         display: inline-block;
     }
 
-   
+    article{
+        padding: 15px;
+        border: 1px solid black;
+        margin: 20px;
+        margin-left: 100px;
+        margin-right: 100px;
+        background: #ffff7488
+
+    }
+ img{
+     width: 100;
+ }
